@@ -3,8 +3,8 @@ public class BmiService {
         double result;
         {
 
-            result =rost*rost;
-            result = ves/result;
+            result =ves/ (rost*rost);
+            //result = ves/result;
 
 
         }
